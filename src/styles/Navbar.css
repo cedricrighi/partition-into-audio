@@ -1,0 +1,29 @@
+.navbar {
+	width: 100%;
+	padding: 1rem;
+	display: flex;
+	align-items: center;
+	gap: .8rem;
+	border-bottom: 1px solid var(--color-gray-333);
+}
+
+.navbar-image {
+	width: 2rem;
+}
+
+.navbar-site-title {
+	width: 70%;
+}
+
+.translate-buttons {
+	width: fit-content;
+	margin-left: auto;
+	display: flex;
+	gap: .3rem;
+}
+
+.translate-button {
+	cursor: pointer;
+	background-color: transparent;
+	border: none;
+}
