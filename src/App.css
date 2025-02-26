@@ -7,9 +7,11 @@
 }
 
 :root {
-	--color-gray-333: #b6b6b6;
+	--white-background: #f7f7f7;
+	--border-bottom-grey: #575757;
 }
 
 body {
 	font-family: "raleway", sans-serif;
+	background-color: #e3e3e3;
 }

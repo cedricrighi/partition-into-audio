@@ -4,7 +4,8 @@
 	display: flex;
 	align-items: center;
 	gap: .8rem;
-	border-bottom: 1px solid var(--color-gray-333);
+	border-bottom: 1px solid var(--border-bottom-grey);
+	background-color: var(--white-background);
 }
 
 .navbar-image {
