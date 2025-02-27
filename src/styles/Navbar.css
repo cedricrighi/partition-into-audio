@@ -20,7 +20,7 @@
 	width: fit-content;
 	margin-left: auto;
 	display: flex;
-	gap: .3rem;
+	gap: .1rem;
 }
 
 .translate-button {
